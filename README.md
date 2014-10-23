@@ -28,13 +28,32 @@ Aprender, trocar conhecimento, estudar novas tecnologias e claro, nos divertir m
  - Rodas e estruturas de plástico que brilha no escuro 
  - Impressora 3D ^^
  - 123 Design (Autodesk)
+ 
+### Aonde? Quando?
+
+Será realizado na Arizona [local?] dia XX/XX/2014 às xx:xx
+
+### Regras
+
+Criar lógica para levar o ArizonaRobot até o final do labirinto.
+
+Comitar (PR) código dentro do folder **codigosNinjas/SeuNome**
+
 
 ### Referências
 
+Download e tutoriais de arduino: <http://arduino.cc/en/Tutorial/HomePage/>
 
-<http://arduino.cc/en/Tutorial/HomePage/>
+123Design: <http://www.123dapp.com/design-alt>
 
-Exemplos no folder **arduinoSources**
+Exemplos arduino no folder **arduinoSources**
+
+Modelo 3D para impressão folder **3DPrint**
+
+![Arizona Robot 3D](http://ivanrosolen.com/arizonaRobot/FinalPlacesView.png "Arizona Robot 3D")
+
+![Arizona Robot 3D](http://ivanrosolen.com/arizonaRobot/topView.png "Arizona Robot 3D")
+
 
 
 ![Arizona](http://ivanrosolen.com/arizonaRobot/logo.png "Arizona")
